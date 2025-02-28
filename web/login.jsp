@@ -53,7 +53,7 @@
             margin-top: 20px; /* 为登录按钮设置 margin-top */
             margin-right: 30px ;
         }
-        #qqq {
+        #zhuce {
             margin-top: 20px; /* 为注册按钮设置2cm的 margin-top */
         }
         button:hover {
@@ -76,7 +76,7 @@
         <input type="text" name="uname" id="uname" placeholder="姓名" value="${messageModel.object.username}">
         <input type="password" name="upwd" id="upwd" placeholder="密码" value="${messageModel.object.password}">
         <button type="button" id="loginBtn">登录</button>
-        <button type="button" id="qqq">注册</button> <!-- 为注册按钮设置了 id"qqq" 以应用特定的样式 -->
+        <button type="button" id="zhuce">注册</button> <!-- 为注册按钮设置了 id"qqq" 以应用特定的样式 -->
         <span id="msg">${messageModel.msg}</span>
     </form>
 </div>

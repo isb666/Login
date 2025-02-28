@@ -1,1 +1,6 @@
  https://github.com/yz1128/OnlineShop/blob/0adbedc7eec8d6c8964436127ec0445411004d6e/src/com/Web/util/GetSqlSession.java#L2
+
+https://blog.csdn.net/qq_45432276/article/details/125123661?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522df504f6f0fbe590730872da21985c932%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=df504f6f0fbe590730872da21985c932&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-125123661-null-null.142^v101^pc_search_result_base2&utm_term=jquery.js&spm=1018.2226.3001.4187
+
+https://blog.csdn.net/qq_46864949/article/details/123917094?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522630457b986221c99181fd8031f20f0f6%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=630457b986221c99181fd8031f20f0f6&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-123917094-null-null.142^v101^pc_search_result_base2&utm_term=mybatis-config&spm=1018.2226.3001.4187
+
