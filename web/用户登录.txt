@@ -1,0 +1,7 @@
+用户登录
+    1. 数据库创建表users-users_data(UserId 自增主键 UserName password)
+
+    2.前台页面
+        登录页面  login.jsp
+            登录表单非空验证
+        首页   index.jsp
